@@ -3,9 +3,9 @@
     "configMode": "LOCAL",
     "configExternalURL": "",
     "baseBranches": [],
-    "enableIaC": true,
-    "enableLicenseViolations": true,
-    "enableReachability": true
+    "enableIaC": false,
+    "enableLicenseViolations": false,
+    "enableReachability": false
   },
   "scanSettingsSAST": {
     "enableScan": true,
